@@ -1,2 +1,2 @@
 # C3bench
-C3 benchmark
+The code and dataset will be released soon.
